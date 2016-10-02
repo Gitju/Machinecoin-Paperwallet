@@ -44,6 +44,7 @@ throughout the document along with their licenses. Included JavaScript
 libraries are separated with HTML script tags.
 
 Summary of JavaScript functions with a redistributable license:
+
 JavaScript function	|	License
 -------------------	|	--------------
 Array.prototype.map	|	Public Domain
@@ -55,6 +56,7 @@ window.QRCode | MIT License
 window.Bitcoin | MIT License
 
 Summary of fonts with a non-commercial license:
+
 Font	|	License
 -------------------	|	--------------
 FHA Condensed French NC	|	http://thefontry.com/fhacondensedfrench
