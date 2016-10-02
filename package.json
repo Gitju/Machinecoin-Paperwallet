@@ -1,8 +1,8 @@
 {
   "name": "paper.machinecoin.org",
   "version": "3.2.2",
-  "sha1sum": "",
-  "sha256sum": "",
+  "sha1sum": "ec0db0262053e9547ff5a2a82a3e480873c33560",
+  "sha256sum": "ff30061ccdf2023c85892c4a6e5d79cf6d180cfdb54b070fc2dd209b9f64dd82",
   "description": "Open Source JavaScript Client-Side Machinecoin Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
@@ -27,8 +27,8 @@
   ],
   "author": "paper.machinecoin.org",
   "license": "MIT",
-  "readmeFilename": "README",
-  "gitHead": "bd513af1b2732896e5aad5b8a5214bd4f405231d",
+  "readmeFilename": "README.md",
+  "gitHead": "b5d0d7805184c76bdc70a122547fcb52e42ac448",
   "bugs": {
     "url": "https://github.com/machinecoin-project/paper.machinecoin.org/issues"
   }
