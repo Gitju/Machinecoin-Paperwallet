@@ -1,4 +1,4 @@
-paper.machinecoin.org
+# paper.machinecoin.org
 JavaScript Client-Side Machinecoin Wallet Generator
 
 Now Machinecoin addresses and their corresponding private key can be conveniently 
@@ -15,15 +15,21 @@ Please send DONATIONS for this project to Machinecoin Address:
 MDSQf1PSdrpTBE8GGV4ydhAqq9z5AbMDAw
 
 
-END USER NOTES: 
+END USER NOTES:
+
  1) To print QRCode in IE8 you must enable the "Print Background Colors and 
     Images" checkbox on the "Page Setup" screen.
+
  2) For Bulk Wallet I recommended using Google Chrome, it's the fastest.
+
  3) Requires IE8+, Firefox, Chrome or sufficient JavaScript support.
+
  4) Mobile Safari only works with iPhone4 or newer devices.
     Older devices timeout while executing JavaScript.
+
  5) DO NOT use Opera Mini it renders JavaScript output server side, therefore
     they might record the private key you generated.
+
  6) Art Wallet does not work properly in IE8 due to CSS limitations.
 
 
@@ -32,21 +38,26 @@ Notice of Copyrights and Licenses:
 The paper.machinecoin.org project, software and embedded resources are
 copyright paper.machinecoin.org.
 
-Portions of the all-in-one HTML document contain JavaScript codes that
+Portions of the all-in-one HTML document contain JavaScript codes and fonts that
 are the copyrights of others. The individual copyrights are included
 throughout the document along with their licenses. Included JavaScript
 libraries are separated with HTML script tags.
 
 Summary of JavaScript functions with a redistributable license:
-JavaScript function		License
--------------------		--------------
-Array.prototype.map		Public Domain
-window.Crypto			BSD License
-window.SecureRandom		BSD License
-window.EllipticCurve		BSD License
-window.BigInteger		BSD License
-window.QRCode			MIT License
-window.Bitcoin			MIT License
+JavaScript function	|	License
+-------------------	|	--------------
+Array.prototype.map	|	Public Domain
+window.Crypto | BSD License
+window.SecureRandom	| BSD License
+window.EllipticCurve	|	BSD License
+window.BigInteger |	BSD License
+window.QRCode | MIT License
+window.Bitcoin | MIT License
+
+Summary of fonts with a non-commercial license:
+Font	|	License
+-------------------	|	--------------
+FHA Condensed French NC	|	http://thefontry.com/fhacondensedfrench
 
 The paper.machinecoin.org software is available under The MIT License (MIT)
 Copyright (c) 2011-2013 bitaddress.org
